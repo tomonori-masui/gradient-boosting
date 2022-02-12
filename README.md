@@ -1,2 +1,2 @@
 # Gradient Boosting Algorithm Implementation
-This repo contains notebooks talking about the details of GB algorithm
+This repo contains notebooks talking about the details of GB algorithm. The same content is also published in Towards Data Science ([Regression](https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502) and [Classification](https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e)).
